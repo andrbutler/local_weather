@@ -1,4 +1,4 @@
-{'200': ['#ffffff', 'url(https://upload.wikimedia.org/wikipedia/commons/5/5f/22_Regen_ubt.jpeg)', '#000000', '<p> Tomasz Sienicki [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons</p>'],
+const img = {'200': ['#ffffff', 'url(https://upload.wikimedia.org/wikipedia/commons/5/5f/22_Regen_ubt.jpeg)', '#000000', '<p> Tomasz Sienicki [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons</p>'],
 '201': ['#ffffff', 'url(https://upload.wikimedia.org/wikipedia/commons/5/5f/22_Regen_ubt.jpeg)', '#000000', '<p> Tomasz Sienicki [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons</p>'],
 '202': ['#000000', 'url(https://c1.staticflickr.com/5/4007/4582291674_63482c2241_b.jpg)', '#eeeeee', '<p> Gillie Rhodes https://www.flickr.com/photos/lovestruck94/4582291674/ </p>'],
 '210': ['#1452c3', 'url(https://c1.staticflickr.com/5/4101/4875959488_66dded4455_o.jpg)', '#f0e1dd', '<p> Craig ONeal https://www.flickr.com/photos/craigoneal/4875959488/</p>'],
@@ -71,3 +71,4 @@
 '960': ['#ffffff', 'url(https://c2.staticflickr.com/4/3253/2861975094_6b5191a971_b.jpg)', '#000000', '<p> Chalky Lives https://www.flickr.com/photos/traitlinburke/2861975094/</p>'],
 '961': ['#000000', 'url(https://c2.staticflickr.com/4/3792/11768662374_bda724ec9e_b.jpg)', '#ffebad', '<p> Greenstone Girl https://www.flickr.com/photos/greenstonegirlpix/11768662374/</p>'],
 '962': ['#405987', 'url(https://upload.wikimedia.org/wikipedia/commons/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG)', '#222222', '<p> By Astronaut photograph ISS008-E-19646 was taken March 7, 2004, with a Kodak DCS760 digital camera equipped with an 50-mm lens, and is provided by the Earth Observations Laboratory, Johnson Space Center. [Public domain], via Wikimedia Commons</p>']}
+export default img;

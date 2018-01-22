@@ -105,8 +105,7 @@ $(document).ready(function(){
 navigator.geolocation.getCurrentPosition(function(weather) {
 lat = weather.coords.latitude;
 lon = weather.coords.longitude;
-apiKey = window.prompt("enter your api key(available at: https://openweathermap.org/)")
-url = 'https://api.openweathermap.org/data/2.5/weather?lat=' + lat + '&lon=' + lon + '&mode=json&units=imperial&APPID=' + apiKey;
+url = 'https://fcc-file-up-m.herokuapp.com/weather?lat=' + lat + '&lon=' + lon;
 update();
 });
 }
